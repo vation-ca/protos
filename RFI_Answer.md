@@ -38,10 +38,10 @@ e. Operational Security Standard: Management of Information Technology Security 
 https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=12328
 f. Security requirements for contracting with Canada https://www.tpsgc-pwgsc.gc.ca/escsrc/index-eng.html
 
-g. Directive on Travel, Hospitality, Conference and Event Expenditures: https://www.tbssct.gc.ca/pol/doc-eng.aspx?id=27228
+g. Directive on Travel, Hospitality, Conference and Event Expenditures: https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=27228
 h. Official Languages Act: http://www.laws-lois.justice.gc.ca/eng/acts/O-3.01/
 i. Policy on Official Languages http://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=26160
-j. Directive on Official Languages for Communications and Services https://www.tbssct.gc.ca/pol/doc-eng.aspx?id=26164
+j. Directive on Official Languages for Communications and Services https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=26164
 
 k. Privacy Act: http://laws-lois.justice.gc.ca/eng/acts/p-21/
 l. Policy on Information Management http://www.tbs-sct.gc.ca/im-gi/imp-pgi/imp-pgi-eng.asp
