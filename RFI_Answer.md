@@ -36,7 +36,7 @@ Plain-language guidance specific to engagements, in the form of checklists, woul
 The twelve policies below represent a very large set of requirements and each often refers to knowledge of many Acts, regulations, and Policy documents. It may take many years to absorb all these details. 
 * The challenge is actually signing a contract saying that we will comply and having not read all these "rules and procedures."
 
-Analogy: I have not read the Highway Traffic Act but I have periodically read the Driver's Handbook/ Manual about the important rules-of-the-road.
+* Analogy: I have not read the Highway Traffic Act but I have periodically read the Driver's Handbook/ Manual about the important rules of-the-road.
 
 > a. [The Standard on Web Accessibility](http://tbs-sct.gc.ca/pol/doc-eng.aspx?id=23601), the [Standard on Web Usability](http://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=24227) and the [Standard on Web
 > Interoperability](http://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=25875).
