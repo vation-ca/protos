@@ -37,8 +37,8 @@ Analogy: I have not read the Highway Traffic Act but I have periodically read th
 
 The challenge is actually signing a document saying that we will comply and having not read all these "rules and procedures."
 
-> a. The Standard on Web Accessibility, the Standard on Web Usability and the Standard on Web
-> Interoperability.
+> a. [The Standard on Web Accessibility](http://tbs-sct.gc.ca/pol/doc-eng.aspx?id=23601), the [Standard on Web Usability](http://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=24227) and the [Standard on Web
+> Interoperability](http://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=25875).
 
 No challenges, I have conducted interviews with both blind, low vision and low digital skills persons. 
 
