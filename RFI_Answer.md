@@ -29,9 +29,9 @@ a. The Standard on Web Accessibility, the Standard on Web Usability and the Stan
 Interoperability.
 No challenges, I have conducted interviews with both blind, low vision and low digital skills persons. 
 
-b. Policy on Communications and Federal Identity https://www.tbs-sct.gc.ca/pol/doceng.aspx?id=30683
+b. Policy on Communications and Federal Identity https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=30683
 
-c. Directive on the Management of Communications https://www.tbs-sct.gc.ca/pol/doceng.aspx?id=30682
+c. Directive on the Management of Communications https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=30682
 
 d. Policy on Government Security: http://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=16578
 e. Operational Security Standard: Management of Information Technology Security (MITS):
