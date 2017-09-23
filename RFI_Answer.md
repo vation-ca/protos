@@ -31,6 +31,12 @@ Tricky consultations
 
 > ### 9.4 Do you face challenges meeting any specifications or standards required by Canada, such as:
 
+The following is a large set of requirements and each often refers to knowledge of many Acts, regulations, and Policy documents. It may take many years to absorb all these details. An important guidance document would be useful to get more industry participants started in supplying services to the Gov't.
+
+Analogy: I have not read the Highway Traffic Act but I have periodically read the Driver's Handbook/ Manual about the important rules-of-the-road.
+
+The challenge is actually signing a document saying that we will comply and having not read all these "rules and procedures."
+
 > a. The Standard on Web Accessibility, the Standard on Web Usability and the Standard on Web
 > Interoperability.
 
