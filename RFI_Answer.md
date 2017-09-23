@@ -8,6 +8,7 @@ answer certain questions. Please structure your submission so that it is clear w
 responding to.`
 
 ## 9.1 Would you be interested in responding to a Request for Standing Offer that includes a variety of services related to public engagement?
+
 Yes
 
 ## 9.2 The current Standing Offers for Stakeholder and Citizen Engagement and Consultation Services arenot applicable to consultations in Comprehensive Land Claims Agreement Areas. 
@@ -18,9 +19,12 @@ engaging with Indigenous peoples?`
 
 ## 9.3 Please tell us about your particular expertise or services in public engagement. Consider the following questions:
 * What types of expertise or services related to public engagement do you offer?
+
 UX Reseach, Behavioural Insights, Experimentation, 
 * What is the problem that your methods address? In what context do your proposed method(s) work best?
+
 Tricky consultations
+
 * How do you set goals and plan, determine appropriate methods, and /or measure success? 
 
 ## 9.4 Do you face challenges meeting any specifications or standards required by Canada, such as:
@@ -34,16 +38,22 @@ b. Policy on Communications and Federal Identity https://www.tbs-sct.gc.ca/pol/d
 c. Directive on the Management of Communications https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=30682
 
 d. Policy on Government Security: http://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=16578
+
 e. Operational Security Standard: Management of Information Technology Security (MITS):
 https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=12328
+
 f. Security requirements for contracting with Canada https://www.tpsgc-pwgsc.gc.ca/esc-src/index-eng.html
 
 g. Directive on Travel, Hospitality, Conference and Event Expenditures: https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=27228
+
 h. Official Languages Act: http://www.laws-lois.justice.gc.ca/eng/acts/O-3.01/
+
 i. Policy on Official Languages http://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=26160
+
 j. Directive on Official Languages for Communications and Services https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=26164
 
 k. Privacy Act: http://laws-lois.justice.gc.ca/eng/acts/p-21/
+
 l. Policy on Information Management http://www.tbs-sct.gc.ca/im-gi/imp-pgi/imp-pgi-eng.asp
 
 ## 9.5 What industry standards or best practices for privacy and/or security do you follow?
@@ -57,4 +67,5 @@ l. Policy on Information Management http://www.tbs-sct.gc.ca/im-gi/imp-pgi/imp-p
 ## 9.9 Do you see any challenges with having procurement tools for public engagement made available for Provincial and Territorial Government use?
 
 ## 9.10 Canada may also hold an Information session for Industry; Would you be interested in attending?
+
 Yes
