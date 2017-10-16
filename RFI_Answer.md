@@ -27,12 +27,13 @@ User Experience research and behavioural science, knowledge of Canada's web stan
 
 Deep understanding of web conventions and human behaviour through years of research directly with users for Government and in academic settings. This includes following ethical research standards. 
 
-Am deeply concerned about the trend towards online consultations that do not take online human behaviour into account. For example, the Climate Change consultation was particularly challenging. There were issues that should have been considered during the design of the consultation and should possibly have halted and redirected that process. These issues, signal the need for investing in research to examine potential solutions and impacts:  
+I am deeply concerned about the trend towards online consultations that do not take online human behaviour into account. For example, the Climate Change consultation was particularly challenging. There were issues that should have been considered during the design of the consultation and could possibly have halted and redirected that process. These issues signal the need for investing in research to examine potential solutions and impacts. 
 
-* In [Climate consultation swamped by trolls](https://capitalnews.ca/climate-consultation-swamped-by-internet-trolls/) analysis of the 13,742 posts revealed that 20% were made by just one person -and overall nearly half were made by only 10 commenters. 5 of those top commenters were skeptical of the need for climate action, and posted frequently enough (up to 4 times per day) that their comments were usually visible to anyone joining the consultation that day.  This risked contaminating all of the results through two mechanisms:
+..In [Climate consultation swamped by trolls](https://capitalnews.ca/climate-consultation-swamped-by-internet-trolls/) analysis of the 13,742 posts revealed that 20% were made by just one person -and overall nearly half were made by only 10 commenters. 5 of those top commenters were skeptical of the need for climate action, and posted frequently enough (up to 4 times per day) that their comments were usually visible to anyone joining the consultation that day.  This risked contaminating all of the results through two mechanisms:
 
-..1.[The Illusory Truth Effect](https://en.wikipedia.org/wiki/Illusory_truth_effect) is the tendency to believe information to be correct after repeated exposure. People participating in the consultation could be repeatedly exposed to skeptical views on climate change which put them at risk of accepting those views. 
-..2.The presence of trolls can inhibit online participation by . Trolls insult, harrass and generally thrive on condemnation - and anonymity is a key enabler. People may avoid contributing when they see trolls in the consultation space. In [The Future of Free Speech, Trolls, Anonymity and Fake News Online](http://www.pewinternet.org/2017/03/29/the-future-of-free-speech-trolls-anonymity-and-fake-news-online/), 39% of respondents "expect the online future will be more shaped by negative activities". 
+...1.[The Illusory Truth Effect](https://en.wikipedia.org/wiki/Illusory_truth_effect) is the tendency to believe information to be correct after repeated exposure. People participating in the consultation could be repeatedly exposed to skeptical views on climate change which put them at risk of accepting those views.
+
+...2.The presence of trolls can inhibit online participation by . Trolls insult, harrass and generally thrive on condemnation - and anonymity is a key enabler. People may avoid contributing when they see trolls in the consultation space. In [The Future of Free Speech, Trolls, Anonymity and Fake News Online](http://www.pewinternet.org/2017/03/29/the-future-of-free-speech-trolls-anonymity-and-fake-news-online/), 39% of respondents "expect the online future will be more shaped by negative activities". 
 
 > * What is the problem that your methods address? In what context do your proposed method(s) work best?
 
@@ -42,11 +43,12 @@ Prefer to approach challenges at the deeper systemic level rather than one-off q
 
 > * How do you set goals and plan, determine appropriate methods, and /or measure success? 
 
+We use workshop techniques from The Sprint Book, Design Thinking to clarify goals and develop an initial plan. We use Agile methods to create canvases of assumptions and iterate towards a solution. We build online prototoypes to engage team members in realistic web behaviours, and try out the prototypes with potential users to ensure they are delivering to the consultation goals. We measure success through actionable results and outcomes, rather than volume. 
+
 > ### 9.4 Do you face challenges meeting any specifications or standards required by Canada, such as:
 
-Plain-language guidance specific to engagements, in the form of checklists, would be very useful to get more industry participants started in supplying services to the Gov't. 
+Plain-language guidance specific to engagements, in the form of checklists, would be very useful to get more industry participants started in supplying services to the Gov't. The twelve policies below represent a very large set of requirements and each often refers to knowledge of many Acts, regulations, and Policy documents. It may take many years to absorb all these details. 
 
-The twelve policies below represent a very large set of requirements and each often refers to knowledge of many Acts, regulations, and Policy documents. It may take many years to absorb all these details. 
 * The challenge is actually signing a contract saying that we will comply and having not read all these "rules and procedures."
 
 * Analogy: I have not read the Highway Traffic Act but I have periodically read the Driver's Handbook/ Manual about the important rules of-the-road.
@@ -82,16 +84,22 @@ https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=12328
 > ### 9.5 What industry standards or best practices for privacy and/or security do you follow?
 
 > ### 9.6 Does the service that you offer include methodologies or software that are open source, licensed for re-use, or use open standards that can be adapted and improved by others?
+
 Yes 
 
 > ### 9.7 Does an individual call-up limit against a Standing Offer – of $300,000 (excluding Applicable Taxes) reflect industry practices?
-Wow that's a lot! 
+
+Am not familiar with "industry practices" that would impact a call-up limit this high. It's also not clear why industry practices are relevant. It's up the Government to decide on the limit, not the industry. If you are asking would that limit restrict our participation, then no, it would not. 
 
 > ### 9.8 What are the current barriers that you face in doing business with Canada?
-Procurement
+
+* The length of time and amount of work required for procurement - from security clearances to spending weeks on bids that are not accepted or are rejected for technical reasons. 
+
+* The risk that government clients won't stick to the schedule, will introduce new and costly bureacratic requirements or will impose new requirements after signing a contract.
 
 > ### 9.9 Do you see any challenges with having procurement tools for public engagement made available for Provincial and Territorial Government use?
-No not at all, great idea. 
+
+No not at all, great idea. The challenges are in providing authentication and administration to groups of users, but that's usually part of any platform (although it is a heck of a lot of work). 
 
 > ### 9.10 Canada may also hold an Information session for Industry; Would you be interested in attending?
 
