@@ -47,7 +47,7 @@ We use workshop techniques from The Sprint Book, Design Thinking to clarify goal
 
 > ### 9.4 Do you face challenges meeting any specifications or standards required by Canada, such as:
 
-Plain-language guidance specific to engagements, in the form of checklists, would be very useful to get more industry participants started in supplying services to the Gov't. The twelve policies below represent a very large set of requirements and each often refers to knowledge of many Acts, regulations, and Policy documents. It may take many years to absorb all these details. 
+The challenge is the sheer quantity, and that most are written for lawyers. Plain-language guidance specific to engagements, in the form of checklists, would be very useful to get more industry participants supplying services to the Gov't. The twelve policies below represent a very large set of requirements and each often refers to knowledge of many Acts, regulations, and Policy documents. It may take many years to absorb all these details. 
 
 * The challenge is actually signing a contract saying that we will comply and having not read all these "rules and procedures."
 
@@ -56,7 +56,7 @@ Plain-language guidance specific to engagements, in the form of checklists, woul
 > a. [The Standard on Web Accessibility](http://tbs-sct.gc.ca/pol/doc-eng.aspx?id=23601), the [Standard on Web Usability](http://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=24227) and the [Standard on Web
 > Interoperability](http://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=25875).
 
-As experienced UX and WET developers, we don't face challenges with accessibility, usability or interoperability. For example, we have conducted research sessions with blind, low vision and low digital skills persons. We understand that accessibility goes beyond meeting the needs of persons with low vision or hearing to meeting those of persons with low cognitive and digital skills.
+As experienced UX and WET developers, we practice Inclusive Design. Thus we don't face challenges with accessibility, usability or interoperability. We have conducted online research sessions and interviews with blind, low vision and low digital skills persons. We understand that an inclusive design can meet the needs of all people, but in order to do so, the design must be tested during development, not during QA just prior to launch. 
 
 > b. Policy on Communications and Federal Identity https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=30683
 
@@ -83,11 +83,11 @@ https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=12328
 
 > ### 9.5 What industry standards or best practices for privacy and/or security do you follow?
 
-In the research context, we follow the World Association for Social, Opinion and Market Research [Global guidelines for online research]   (https://mria-arim.ca/sites/default/uploads/files/ESOMAR-GRBN-Online-Research-Guideline-October-2015.pdf).
+In the research context, we follow the World Association for Social, Opinion and Market Research [Global guidelines for online research] (https://mria-arim.ca/sites/default/uploads/files/ESOMAR-GRBN-Online-Research-Guideline-October-2015.pdf).
 
-We aspire to follow principles and practice in this guidance 
+We aspire to follow principles and practice in this guidance: 
 (https://www.ncsc.gov.uk/guidance/security-design-principles-digital-services-main)
-and
+and:
 (https://www.ncsc.gov.uk/guidance/10-steps-cyber-security)
 
 > ### 9.6 Does the service that you offer include methodologies or software that are open source, licensed for re-use, or use open standards that can be adapted and improved by others?
@@ -106,7 +106,7 @@ Am not familiar with "industry practices" that would impact a call-up limit this
 
 > ### 9.9 Do you see any challenges with having procurement tools for public engagement made available for Provincial and Territorial Government use?
 
-No not at all, great idea. The challenges are in providing authentication and administration to groups of users, but that's usually part of any platform (although it is a heck of a lot of work). 
+No not at all, great idea. The challenges are in providing authentication and administration to groups of separate users, but that's usually part of any platform (although it is a heck of a lot of work). 
 
 > ### 9.10 Canada may also hold an Information session for Industry; Would you be interested in attending?
 
