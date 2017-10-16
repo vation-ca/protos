@@ -85,7 +85,10 @@ https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=12328
 
 In the research context, we follow the World Association for Social, Opinion and Market Research [Global guidelines for online research]   (https://mria-arim.ca/sites/default/uploads/files/ESOMAR-GRBN-Online-Research-Guideline-October-2015.pdf).
 
-
+We aspire to follow principles and practice in this guidance 
+(https://www.ncsc.gov.uk/guidance/security-design-principles-digital-services-main)
+and
+(https://www.ncsc.gov.uk/guidance/10-steps-cyber-security)
 
 > ### 9.6 Does the service that you offer include methodologies or software that are open source, licensed for re-use, or use open standards that can be adapted and improved by others?
 
