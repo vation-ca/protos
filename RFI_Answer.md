@@ -83,6 +83,10 @@ https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=12328
 
 > ### 9.5 What industry standards or best practices for privacy and/or security do you follow?
 
+In the research context, we follow the World Association for Social, Opinion and Market Research [Global guidelines for online research]   (https://mria-arim.ca/sites/default/uploads/files/ESOMAR-GRBN-Online-Research-Guideline-October-2015.pdf).
+
+
+
 > ### 9.6 Does the service that you offer include methodologies or software that are open source, licensed for re-use, or use open standards that can be adapted and improved by others?
 
 Yes 
